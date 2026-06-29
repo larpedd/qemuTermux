@@ -9,7 +9,7 @@ apt-get install qemu* -y && \
 mkdir image && \
 cd image;
 ```
-> ###### Be Patience...
+> ###### Be Patient...
 #### For Creating Virtual Machine HDD image do :
 ```bash
 qemu-img create -f qcow2 hdd.img 10G
